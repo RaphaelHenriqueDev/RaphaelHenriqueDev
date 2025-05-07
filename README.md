@@ -15,13 +15,13 @@
 </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RaphaelHenrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="RaphaelHenrique-Go" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
+  <img align="center" alt="RaphaelHenrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="RaphaelHenrique-Go" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="RaphaelHenrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RaphaelHenrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RaphaelHenrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RaphaelHenrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RaphaelHenrique-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="RaphaelHenrique-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="RaphaelHenrique-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="RaphaelHenrique-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
