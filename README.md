@@ -4,14 +4,14 @@
 - This is my profile, enjoy it 😎
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=radical&cache_seconds=30"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=30"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=30" />
 </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
