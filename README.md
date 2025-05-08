@@ -4,7 +4,7 @@
 - This is my profile, enjoy it 😎
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=radical&cache_seconds=30"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=30"
     media="(prefers-color-scheme: dark)"
   />
   <source
