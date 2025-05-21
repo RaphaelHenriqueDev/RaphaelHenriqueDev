@@ -7,6 +7,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=30"
     media="(prefers-color-scheme: dark)"
   />
+ <source
 </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=30" />
 
