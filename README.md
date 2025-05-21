@@ -14,7 +14,7 @@
 
 <hr>
 
-  <img width=100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+  <img width=100%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </div>
 
 <!-- Snake Animation -->
