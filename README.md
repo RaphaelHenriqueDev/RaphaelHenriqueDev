@@ -3,19 +3,20 @@
 - Back-end and Front-end developer 🛜
 - This is my profile, enjoy it 😎
 
-<hr>
 
-<img width="500px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true" />
+<hr>
+
+<img width="500px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </picture>
 
 <div style="display: inline_block"><br>
