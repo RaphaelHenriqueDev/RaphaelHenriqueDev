@@ -12,19 +12,13 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 
-<hr>
-
-  <img width=100%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
-</div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//RaphaelHenriqueDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JenniGabriely01/RaphaelHenriqueDev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JenniGabriely01/RaphaelHenriqueDev/output/github-snake.svg" />
 </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=30" />
-</picture>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniGabriely01&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+</div>
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="RaphaelHenrique-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
