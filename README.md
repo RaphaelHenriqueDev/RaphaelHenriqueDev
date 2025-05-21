@@ -5,7 +5,12 @@
 
 <hr>
 
-  <img width="500px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" 
+  style="border: 1px solid white; border-radius: 4px;" 
+  width="500px" 
+  height="auto"
+/>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=30"
     media="(prefers-color-scheme: dark)"
