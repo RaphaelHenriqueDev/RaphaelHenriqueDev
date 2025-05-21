@@ -10,6 +10,7 @@
  
 </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=30" />
+/>
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniGabriely01&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </source>
 
