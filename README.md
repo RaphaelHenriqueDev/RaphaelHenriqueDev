@@ -13,9 +13,8 @@
   />
 
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=30" />
+ 
 
-</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
