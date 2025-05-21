@@ -2,7 +2,10 @@
 - I'm Junior Dev 🧑‍🎓
 - Back-end and Front-end developer 🛜
 - This is my profile, enjoy it 😎
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniGabriely01&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+
+<hr>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniGabriely01&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=30"
     media="(prefers-color-scheme: dark)"
