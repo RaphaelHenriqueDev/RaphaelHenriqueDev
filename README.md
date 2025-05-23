@@ -3,15 +3,10 @@
 - Back-end and Front-end developer 🛜
 - This is my profile, enjoy it 😎
 
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=3600"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=3600"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=3600" />
 </picture>
