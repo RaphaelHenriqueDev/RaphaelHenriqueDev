@@ -3,7 +3,7 @@
 - Back-end 💪🏻 and Front-end developer 🎓📖
 - Web Scraping experience 11 months;
 - Strong background in developing automation scripts for processing, editing, and generating PDF and XLSX documents.
-
+##
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=3600"
