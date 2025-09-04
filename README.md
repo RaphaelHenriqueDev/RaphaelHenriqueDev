@@ -1,7 +1,8 @@
 ## Hello!! I'm Raphael Henrique 👋
 - I'm Junior Dev 🧑‍🎓
-- Back-end and Front-end developer 🛜
-- This is my profile, enjoy it 😎
+- Back-end 💪🏻 and Front-end developer 🎓📖
+- Web Scraping experience 11 months;
+- Strong background in developing automation scripts for processing, editing, and generating PDF and XLSX documents.
 
 <picture>
   <source
