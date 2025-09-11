@@ -2,7 +2,7 @@
 - I'm Junior Dev 🧑‍🎓
 - Back-end 💪🏻 and Front-end developer 🎓📖
 - Web Scraping experience since 2024;
-- Strong background in developing automation scripts for processing, editing, and generating PDF and XLSX documents.
+- Proficient in building automation tools for data processing, PDF/XLSX manipulation, and web scraping.
 ##
 <picture>
   <source
