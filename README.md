@@ -10,9 +10,6 @@
 
 <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/Claude_AI-FF6F00?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" vertical-align="middle" />
-  
-  <!-- Espaçador -->
-  &nbsp;&nbsp;
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="RaphaelHenrique-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="RaphaelHenrique-NestJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
