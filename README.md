@@ -22,6 +22,8 @@
   <img align="center" alt="RaphaelHenrique-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+#
+
 ### 📊 GitHub Stats
 
 <p align="center">
