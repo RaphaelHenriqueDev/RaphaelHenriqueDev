@@ -7,11 +7,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats Gerais -->
-  <img src="https://github-readme-stats-git-masterhstokiri-s-team.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <!-- Top Linguagens -->
-  <img src="https://github-readme-stats-git-masterhstokiri-s-team.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelHenriqueDev&theme=tokyonight" />
 </p>
 
 <p align="center">
