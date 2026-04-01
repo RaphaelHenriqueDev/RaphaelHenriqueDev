@@ -7,11 +7,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Card de Estatísticas Gerais (Sem bordas para um look mais moderno) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <!-- Card de Linguagens mais utilizadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://metrics.lecoq.io/RaphaelHenriqueDev?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
