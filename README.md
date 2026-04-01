@@ -3,11 +3,16 @@
 - Back-end 💪🏻 and Front-end developer 🎓📖
 - Web Scraping experience since 2024;
 - Proficient in building automation tools for data processing, PDF/XLSX manipulation, and web scraping.
+- Capable of creating and consuming automated API requests.
+- Do you need notifications in your system? I can integrate nodemailer into your code.
+- Favorite AI: Claude Code
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="RaphaelHenrique-Claude" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" />
+  <img align="center" alt="RaphaelHenrique-Gemini" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gemini/gemini-original.svg" />
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="RaphaelHenrique-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="RaphaelHenrique-NestJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="RaphaelHenrique-NestJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="RaphaelHenrique-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
