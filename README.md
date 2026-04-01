@@ -9,8 +9,8 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="RaphaelHenrique-Claude" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" />
-  <img align="center" alt="RaphaelHenrique-Gemini" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gemini/gemini-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="Claude" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gemini/gemini-original.svg" alt="Gemini" height="40" width="40" /
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="RaphaelHenrique-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="RaphaelHenrique-NestJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
