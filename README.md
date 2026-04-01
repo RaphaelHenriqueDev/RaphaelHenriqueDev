@@ -4,13 +4,20 @@
 - Web Scraping experience since 2024;
 - Proficient in building automation tools for data processing, PDF/XLSX manipulation, and web scraping.
 ##
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&cache_seconds=3600"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&cache_seconds=3600" />
-</picture>
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Card de Estatísticas Gerais (Sem bordas para um look mais moderno) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <!-- Card de Linguagens mais utilizadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats para mostrar consistência -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelHenriqueDev&theme=tokyonight&hide_border=true" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
