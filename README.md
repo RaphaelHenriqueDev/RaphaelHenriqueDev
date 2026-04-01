@@ -7,7 +7,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/RaphaelHenriqueDev?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <!-- Stats Gerais -->
+  <img src="https://github-readme-stats-git-masterhstokiri-s-team.vercel.app/api?username=RaphaelHenriqueDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <!-- Top Linguagens -->
+  <img src="https://github-readme-stats-git-masterhstokiri-s-team.vercel.app/api/top-langs/?username=RaphaelHenriqueDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
