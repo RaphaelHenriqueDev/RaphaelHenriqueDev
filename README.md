@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
 <!-- Claude (Anthropic) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="Claude" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="Claude" height="40" width="40" />
   &nbsp;
   <!-- Google Gemini -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" alt="Gemini" height="40" width="40" />
