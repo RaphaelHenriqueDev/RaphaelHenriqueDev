@@ -4,17 +4,6 @@
 - Web Scraping experience since 2024;
 - Proficient in building automation tools for data processing, PDF/XLSX manipulation, and web scraping.
 ##
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- Card de Perfil (Largo) -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelHenriqueDev&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Card de Streak (Ajustado para a mesma largura) -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelHenriqueDev&theme=tokyonight&hide_border=true" />
-</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RaphaelHenrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -32,6 +21,20 @@
   <img align="center" alt="RaphaelHenrique-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="RaphaelHenrique-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Card de Perfil (Largo) -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelHenriqueDev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Card de Streak (Ajustado para a mesma largura) -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelHenriqueDev&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 ##
 
