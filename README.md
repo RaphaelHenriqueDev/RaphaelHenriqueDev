@@ -1,4 +1,4 @@
-## Hello!! I'm Raphael Henrique 👋
+## Hello!! I'm Raphael Henrique 👋🏻
 - I'm Junior Dev 🧑‍🎓
 - Back-end 💪🏻 and Front-end developer 🎓📖
 - Web Scraping experience since 2024;
