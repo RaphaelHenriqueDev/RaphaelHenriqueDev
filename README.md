@@ -5,7 +5,7 @@
 - Proficient in building automation tools for data processing, PDF/XLSX manipulation, and web scraping.
 - Capable of creating and consuming automated API requests.
 - Do you need notifications in your system? I can integrate nodemailer into your code.
-- Favorite AI: <img src="https://img.shields.io/badge/Claude_AI-FF6F00?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" vertical-align="middle" />
+- Favorite AI: <img src="https://img.shields.io/badge/Claude_AI-FF6F00?style=flat-square&logo=claude&logoColor=white" alt="Claude AI" align="center" />
 ##
 
 <div style="display: inline_block"><br>
