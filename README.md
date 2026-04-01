@@ -7,12 +7,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelHenriqueDev&theme=tokyonight" />
+  <!-- Card de Perfil (Largo) -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelHenriqueDev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats para mostrar consistência -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelHenriqueDev&theme=tokyonight&hide_border=true" />
+  <!-- Card de Streak (Ajustado para a mesma largura) -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelHenriqueDev&theme=tokyonight&hide_border=true" />
 </p>
 
 <div style="display: inline_block"><br>
